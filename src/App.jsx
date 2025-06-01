@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import './App.css';
 import useCurrencyInfo from './hooks/useCurrency';
 import { InputBox } from './components';
+
 import bgImage from './components/bgimg.jpg'
 import CurrencyChart from './components/CurrencyChart';
 import useChartData from './hooks/useChartData';
